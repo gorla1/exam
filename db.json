@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 2
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 3
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 4
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 5
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 6
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 7
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 8
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 9
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 10
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 11
+    },
+    {
+      "service": "FOOD",
+      "date": "2021-06-15",
+      "id": 12
+    },
+    {
+      "service": "TRANSPORT",
+      "date": "2021-06-15",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
